@@ -1,0 +1,69 @@
+﻿@model mvcProyectoWeb1.Models.ViewModels.HomeVM
+
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="row mt-1">
+    <div class="col-sm-12">
+        <h1 class="text-center text-dark bg-secondary py-1 bg-white">Lista de Productos</h1>
+    </div>
+</div>
+
+@if (Model.ListProductos.Count() > 0)
+{
+    <hr />
+    <div class="row">
+        @foreach (var producto in Model.ListProductos.OrderBy(o => o.Id))
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card h-100 shadow grow-on-hover">
+                    <img src="@producto.UrlImagen" class="card-img-top img-fluid" alt="Imagen del producto">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">@producto.Nombre</h5>
+                        <p class="card-text">@producto.Descripcion</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="text-center">
+                            <a asp-action="Detalle" class="btn btn-success btn-sm rounded-pill" asp-route-id="@producto.Id">
+                                Más información
+                            </a>
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="https://wa.me/59165945424?text=¡Hola! Me gustaría reservar el producto @producto.Nombre" class="btn btn-success btn-sm">Reservar vía WhatsApp</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+
+}
+else
+{
+    <p>No hay productos</p>
+}
+
+<br />
+<!--Crear botones de páginación-->
+
+<div class="text-center">
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li class="page-item @(Model.PageIndex > 1 ? "" : "disabled")">
+                <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@(Model.PageIndex - 1)">Anterior</a>
+            </li>
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+                    <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@i">@i</a>
+                </li>
+            }
+            <li class="page-item @(Model.PageIndex < Model.TotalPages ? "" : "disabled")">
+                <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@(Model.PageIndex + 1)">Siguiente</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+

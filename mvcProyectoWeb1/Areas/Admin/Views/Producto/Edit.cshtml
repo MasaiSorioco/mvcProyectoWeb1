@@ -1,0 +1,107 @@
+﻿@model mvcProyectoWeb1.Models.ViewModels.ProductoVM
+@{
+    ViewData["Title"] = "Editar Producto";
+}
+<br />
+<h3 class="text-center">Editar Producto</h3>
+<form method="post" asp-action="Edit">
+    <div class="row px-2 offset-1 Border">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.Nombre"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Producto.Nombre" class="form-control" placeholder="Ingresa el Nombre" />
+                    <span asp-validation-for="Producto.Nombre" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.Descripcion"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Producto.Descripcion" class="form-control" placeholder="Ingresa la Descripción" />
+                    <span asp-validation-for="Producto.Descripcion" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            @* <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.Precio"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Producto.Precio" class="form-control" placeholder="Ingresa el Precio" step="1" />
+                    <span asp-validation-for="Producto.Precio" class="text-danger"></span>
+                </div>
+            </div> *@
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.Precio"></label>
+                </div>
+                <div class="col-8">
+                    @{
+                        // Formatear el valor del precio sin decimales
+                        var precioFormateado = string.Format("{0:0}", Model.Producto.Precio);
+                    }
+                    <input asp-for="Producto.Precio" class="form-control" placeholder="Ingresa el Precio" value="@precioFormateado" step="1" />
+                    <span asp-validation-for="Producto.Precio" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.Stock"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Producto.Stock" class="form-control" placeholder="Ingresa el Stock"/>
+                    <span asp-validation-for="Producto.Stock" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label for="Categoría">Categoría</label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Producto.CategoriaId, Model.ListaCategorias,
+                             "-Por favor seleccione una categoría-", new { @class = "form-control" })
+                    <span asp-validation-for="Producto.CategoriaId" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Producto.UrlImagen"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="Producto.UrlImagen" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+            <div class="row">
+                <div class="col">
+                    <button type="submit" class="btn btn-primary form-control">
+                        <i class="fa-solid fa-plus"></i>Guardar
+                    </button>
+                </div>
+                &nbsp;
+                <div class="col">
+                    <a asp-action="Index" class="btn btn-success form-control">
+                        <i class="fa-solid fa-arrow-left"></i>Volver atrás
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

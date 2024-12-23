@@ -1,0 +1,132 @@
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.deps.json
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\bin\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.AssemblyReference.cache
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfoInputs.cache
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.AssemblyInfo.cs
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.csproj.CoreCompileInputs.cache
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\refint\mvcProyectoWeb1.Models.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\mvcProyectoWeb1.Models.pdb
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Models\obj\Debug\net8.0\ref\mvcProyectoWeb1.Models.dll

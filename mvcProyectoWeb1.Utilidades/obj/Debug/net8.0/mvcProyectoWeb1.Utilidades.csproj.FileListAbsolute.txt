@@ -1,0 +1,121 @@
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\source\repos\MVC\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\SCPC513\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\2\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\3\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo - copia\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\RICHARD\Desktop\todos los proyectos group\5\Proyecto grupo2\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+C:\Users\User\Desktop\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.deps.json
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\bin\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfoInputs.cache
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.AssemblyInfo.cs
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.csproj.CoreCompileInputs.cache
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb1.Utilidades.dll
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\mvcProyectoWeb1.Utilidades.pdb
+D:\DISEÑO WEB II\Proyecto grupo3\mvcProyectoWeb1\mvcProyectoWeb1.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb1.Utilidades.dll
